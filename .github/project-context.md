@@ -1,4 +1,4 @@
-# 120Water Project Context (Centralized)
+# Project Context (Centralized)
 
 This document centralizes project context to avoid per-project instructions and to reduce prompt overhead. It is the single source of truth for agents and skills.
 
