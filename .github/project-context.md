@@ -24,7 +24,7 @@ This document centralizes project context to avoid per-project instructions and 
 ## React Example (Good Practice)
 ```tsx
 import React, { useMemo } from 'react'
-import { Button } from '@120wateraudit/waterworks'
+import { Button } from '@componentlibrary'
 
 interface ActionBarProps {
   isSaving: boolean
